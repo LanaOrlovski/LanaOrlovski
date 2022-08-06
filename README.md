@@ -1,7 +1,7 @@
 # Sobre Mim. 
 ## Editando o Perfil.
-- 👋 Olá, meu nome é @LanaOrlovski
-- :+1: Meu e-mail de contato é lana.orlovski@escola.pr.gov.br 
+- 👋 Olá, meu nome é **@LanaOrlovski**
+- :+1: Este é meu contato: [email](lana.orlovski@escola.pr.gov.br)
 - 👀 Eu estou interessada em aprender a programar em novas linguagens;
 - 🌱 E eu estou aprendendo a programar a linguagem Python. 
 
